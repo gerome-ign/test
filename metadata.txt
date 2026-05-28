@@ -7,7 +7,7 @@ name=TEST
 qgisMinimumVersion=3.0
 qgisMaximumVersion=4.99
 description=plugin test
-version=3.1
+version=3.1_distant
 author=Gérôme PECHEUR (IGN)
 email=gerome.pecheur@ign.fr
 
